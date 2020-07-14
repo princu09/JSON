@@ -1,5 +1,5 @@
 [
-    "developers" : [
+  
         {
     "owner": "Prince",
     "organization": "NorthFox Developers",
@@ -16,5 +16,5 @@
     "title": "Image In Text",
     "oimage" : "https://princu09.github.io/nfwebbuilder/img/logo.png"
 }
-    ]
+    
 ]
