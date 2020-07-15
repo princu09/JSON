@@ -1,6 +1,6 @@
-[
+{
 
-    {
+    "users": [{
         "id": "1",
         "owner": "Prince",
         "organization": "NorthFox Developers",
@@ -34,3 +34,4 @@
         "oimage": "https://princu09.github.io/nfwebbuilder/img/logo.png"
     }
 ]
+}
